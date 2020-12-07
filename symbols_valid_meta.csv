@@ -1,4 +1,4 @@
-Nasdaq Traded,Company,Security Name,Listing Exchange,Market Category,ETF,Round Lot Size,Test Issue,Financial Status,CQS Symbol,NASDAQ Symbol,NextShares
+Nasdaq_Traded,Company,Security_Name,Listing_Exchange,Market_Category,ETF,Round_Lot_Size,Test_Issue,Financial_Status,CQS_Symbol,NASDAQ_Symbol,NextShares
 Y,A,"Agilent Technologies, Inc. Common Stock",N, ,N,100,N,,A,A,N
 Y,AA,Alcoa Corporation Common Stock ,N, ,N,100,N,,AA,AA,N
 Y,AAAU,Perth Mint Physical Gold ETF,P, ,Y,100,N,,AAAU,AAAU,N
